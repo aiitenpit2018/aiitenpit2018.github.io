@@ -42,7 +42,7 @@
   * [リポジトリ](https://github.com/tanacchi/our_ramen/)
   * [Webページ](https://aiitenpit2018.github.io/our_ramen)
 
-* タイトル
+* ご当地ラーメン
   * 企画：ラーメン同好会(仮)
   * 制作：ぎっとろく
   * [リポジトリ](https://github.com/Kumaharu/GtouchiRamen/)
