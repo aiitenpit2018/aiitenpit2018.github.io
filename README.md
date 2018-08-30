@@ -36,7 +36,7 @@
   * [リポジトリ](https://github.com/HiRoKiiii/search_izakaya/)
   * [Webページ](https://aiitenpit2018.github.io/search_izakaya)
 
-* タイトル
+* 俺らのラーメン
   * 企画：右利き
   * 制作：パックンマックン
   * [リポジトリ](https://github.com/tanacchi/our_ramen/)
