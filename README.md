@@ -6,7 +6,7 @@
   * [リポジトリ](https://github.com/riono210/mintia_project)
   * [Webページ](https://aiitenpit2018.github.io/mintia_project/)
 
-* ポーク玉子
+* タイトル
   * 企画：伊波プロジェクト
   * 制作：しまんちゅLovers
   * [リポジトリ](https://github.com/kugimasa/iha-project)
@@ -43,18 +43,16 @@
   * [Webページ](https://aiitenpit2018.github.io/our_ramen)
 
 * タイトル
-  * 企画：
-  * 制作：
-  * [リポジトリ](https://github.com/)
-  * [Webページ](https://aiitenpit2018.github.io/)
+  * 企画：ラーメン同好会(仮)
+  * 制作：ぎっとろく
+  * [リポジトリ](https://github.com/Kumaharu/GtouchiRamen/)
+  * [Webページ](https://aiitenpit2018.github.io/GtouchiRamen/)
 
 * タイトル
-  * 企画：
-  * 制作：
+  * 企画：ぎっとろく
+  * 制作：伊波プロジェクト
   * [リポジトリ](https://github.com/)
   * [Webページ](https://aiitenpit2018.github.io/)
-
-
 
 
 # git / GitHub になれる作業
