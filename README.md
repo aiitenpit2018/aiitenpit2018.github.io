@@ -57,7 +57,7 @@
 
 
 
-* git / GitHub になれる作業
+# git / GitHub になれる作業
 
 * [[リポジトリ](https://github.com/e165719/team_project/)] 伊波project
 * [[リポジトリ](https://github.com/kugimasa/team_project-/)] しまんちゅLovers
