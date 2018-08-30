@@ -30,7 +30,7 @@
   * [リポジトリ](https://github.com/East6/introduce_kurozima/)
   * [Webページ](https://East6.github.io/introduce_kurozima)
 
-* 御殿場高原ビール グランテーブル
+* 居酒屋サーチ
   * 企画：East5
   * 制作：ラーメン同好会(仮)
   * [リポジトリ](https://github.com/HiRoKiiii/search_izakaya/)
