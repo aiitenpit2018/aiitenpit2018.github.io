@@ -1,4 +1,4 @@
-# aiitenpit2018.github.io
+# AIIT enPiT 2018
 
 * 伊波project:[[Webページ](https://aiitenpit2018.github.io/e165719/e165719.html)] [[リポジトリ](https://github.com/e165719/team_project/)]
 * しまんちゅLovers:[[Webページ](https://aiitenpit2018.github.io/kugimasa/)] [[リポジトリ](https://github.com/kugimasa/team_project-/)]
