@@ -1,6 +1,6 @@
 # aiitenpit2018.github.io
 
-* 伊波project:[[Webページ](https://aiitenpit2018.github.io/e165719/)] [[リポジトリ](https://github.com/e165719/team_project/)]
+* 伊波project:[[Webページ](https://aiitenpit2018.github.io/e165719/e165719.html)] [[リポジトリ](https://github.com/e165719/team_project/)]
 * しまんちゅLovers:[[Webページ](https://aiitenpit2018.github.io/kugimasa/)] [[リポジトリ](https://github.com/kugimasa/team_project-/)]
 * ぎっとろく:[[Webページ](https://aiitenpit2018.github.io/Kumaharu/)] [[リポジトリ](https://github.com/Kumaharu/team_project/)]
 * ラーメン同好会(仮):[[Webページ](https://aiitenpit2018.github.io/e165744/)] [[リポジトリ](https://github.com/e165744/team_project/)]
