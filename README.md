@@ -12,13 +12,13 @@
   * [リポジトリ](https://github.com/kugimasa/iha-project)
   * [Webページ](https://aiitenpit2018.github.io/iha-project/)
 
-* 僕らの観光地
+* タイトル
   * 企画：パックンマックン
   * 制作：右利き
   * [リポジトリ](https://github.com/rkdora/right_hand)
   * [Webページ](https://aiitenpit2018.github.io/right_hand/)
 
-* タイトル
+* 最高のエナジードリンク
   * 企画：ゴリラハラスメント
   * 制作：芋けんぴ
   * [リポジトリ](https://github.com/Momo-ASKR/energy_drink_library)
