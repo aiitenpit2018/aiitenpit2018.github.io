@@ -12,7 +12,7 @@
   * [リポジトリ](https://github.com/kugimasa/iha-project)
   * [Webページ](https://aiitenpit2018.github.io/iha-project/)
 
-* タイトル
+* 僕らの観光地
   * 企画：パックンマックン
   * 制作：右利き
   * [リポジトリ](https://github.com/rkdora/right_hand)
@@ -30,7 +30,7 @@
   * [リポジトリ](https://github.com/East6/introduce_kurozima/)
   * [Webページ](https://aiitenpit2018.github.io/introduce_kurozima)
 
-* タイトル
+* 御殿場高原ビール グランテーブル
   * 企画：East5
   * 制作：ラーメン同好会(仮)
   * [リポジトリ](https://github.com/HiRoKiiii/search_izakaya/)
@@ -48,7 +48,7 @@
   * [リポジトリ](https://github.com/Kumaharu/GtouchiRamen/)
   * [Webページ](https://aiitenpit2018.github.io/GtouchiRamen/)
 
-* タイトル
+* 全国のご当地ビール
   * 企画：ぎっとろく
   * 制作：伊波プロジェクト
   * [リポジトリ](https://github.com/e165719/team_project/)
