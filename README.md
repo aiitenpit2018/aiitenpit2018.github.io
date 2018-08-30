@@ -1,6 +1,6 @@
 # AIIT enPiT 2018
 
-* タイトル
+* MINTIA COLDSMASH
   * 企画：芋けんぴ
   * 制作：ゴリラハラスメント
   * [リポジトリ](https://github.com/riono210/mintia_project)
