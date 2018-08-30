@@ -24,7 +24,7 @@
   * [リポジトリ](https://github.com/Momo-ASKR/energy_drink_library)
   * [Webページ](https://aiitenpit2018.github.io/energy_drink_library)
 
-* タイトル
+* 沖縄の離島
   * 企画：しまんちゅLovers
   * 制作：East5
   * [リポジトリ](https://github.com/East6/introduce_kurozima/)
