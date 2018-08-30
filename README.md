@@ -6,7 +6,7 @@
   * [リポジトリ](https://github.com/riono210/mintia_project)
   * [Webページ](https://riono210.github.io/mintia_project/)
 
-* 伊波くんも大好きポーク玉子
+* 伊波くんのソウルフード！
   * 企画：伊波プロジェクト
   * 制作：しまんちゅLovers
   * [リポジトリ](https://github.com/kugimasa/iha-project)
