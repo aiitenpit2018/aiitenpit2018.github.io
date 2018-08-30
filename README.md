@@ -12,7 +12,7 @@
   * [リポジトリ](https://github.com/kugimasa/iha-project)
   * [Webページ](https://aiitenpit2018.github.io/iha-project/)
 
-* タイトル
+* 僕らの観光地
   * 企画：パックンマックン
   * 制作：右利き
   * [リポジトリ](https://github.com/rkdora/right_hand)
