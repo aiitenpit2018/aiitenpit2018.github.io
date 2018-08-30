@@ -51,8 +51,8 @@
 * タイトル
   * 企画：ぎっとろく
   * 制作：伊波プロジェクト
-  * [リポジトリ](https://github.com/)
-  * [Webページ](https://aiitenpit2018.github.io/)
+  * [リポジトリ](https://github.com/e165719/team_project/)
+  * [Webページ](https://aiitenpit2018.github.io/e165719/)
 
 
 # git / GitHub になれる作業
